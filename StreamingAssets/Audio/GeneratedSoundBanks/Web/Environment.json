@@ -1,0 +1,446 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Web",
+  "BasePlatform": "Web",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1229948536",
+    "Type": "User",
+    "GUID": "{42634816-D4DD-4F4D-866E-B091CA74AE3D}",
+    "Language": "SFX",
+    "Hash": "{ED401361-8640-ED79-A2E8-75BE2BC9D48D}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Environment",
+    "ShortName": "Environment",
+    "Path": "Environment.bnk",
+    "Media": [
+     {
+      "Id": "8917109",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind gust-005.wav",
+      "CachePath": "EE/{EE0F9884-B0E2-3297-B162-F2A3886736DF}.wem"
+     },
+     {
+      "Id": "48366985",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind gust-006.wav",
+      "CachePath": "6F/{6F2EDB7F-E2CA-8AE2-8276-1B6B73E41AAF}.wem"
+     },
+     {
+      "Id": "110283694",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "synth cricket 2.wav",
+      "CachePath": "87/{874F322D-D773-9DA3-B9B7-6F4FAC17CD0D}.wem"
+     },
+     {
+      "Id": "178072745",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind gust-002.wav",
+      "CachePath": "D6/{D6FC735F-798B-999C-BD94-912F8B3C6779}.wem"
+     },
+     {
+      "Id": "354370240",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind gust-001.wav",
+      "CachePath": "68/{68095992-99BC-F3C0-09E8-F7261D60368E}.wem"
+     },
+     {
+      "Id": "374857610",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075.wav",
+      "CachePath": "4C/{4C4B8200-2AA1-CC84-7B2B-41FBCD696CD0}.wem"
+     },
+     {
+      "Id": "401502167",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075.wav",
+      "CachePath": "B3/{B33CFA01-DA14-3B06-1287-A069AAF2F829}.wem"
+     },
+     {
+      "Id": "404204794",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075.wav",
+      "CachePath": "1F/{1FEA5A2B-6157-A86D-F6F8-3DC0F1254525}.wem"
+     },
+     {
+      "Id": "405695144",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind gust-007.wav",
+      "CachePath": "C2/{C27ECD24-3A21-F0DC-869F-5E864B17D0FF}.wem"
+     },
+     {
+      "Id": "604692266",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Water, Flow, Gentle Water Stream Ambience SND73376.wav",
+      "CachePath": "77/{772DC0F6-5720-6634-E100-1C3EED505A69}.wem"
+     },
+     {
+      "Id": "616105081",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind gust-003.wav",
+      "CachePath": "C4/{C4D2B51D-17C0-9E26-C8E3-606A5A81C18D}.wem"
+     },
+     {
+      "Id": "726529789",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "synth cricket 1.wav",
+      "CachePath": "87/{87B46DB8-0614-93CD-0EDA-1CA0755FFD11}.wem"
+     },
+     {
+      "Id": "744368098",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Water, Flow, Gentle River, Stream Flow, Light 02 SND81602.wav",
+      "CachePath": "FB/{FB058C00-EA9B-7BA4-4303-5388465AC4FC}.wem"
+     },
+     {
+      "Id": "789882364",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075.wav",
+      "CachePath": "57/{575BF2B5-FC1F-A94D-8112-A7716F5CEE45}.wem"
+     },
+     {
+      "Id": "800591891",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075.wav",
+      "CachePath": "B8/{B807222D-C472-C1BB-C753-AC3084B22225}.wem"
+     },
+     {
+      "Id": "843621866",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "synth cricket 3.wav",
+      "CachePath": "B9/{B94B13E1-AC22-E875-F62A-E2C0AE62F77B}.wem"
+     },
+     {
+      "Id": "867056537",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind gust-004.wav",
+      "CachePath": "C2/{C21C0C01-AC66-F835-0A36-FFEDB845FEDF}.wem"
+     },
+     {
+      "Id": "979054858",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bounce 2-Vegetation, Leaves, Rustle, Moving Layer Of Leaves With Rake, Long Steady Take, Varying Intensity SND63640 [2025-06-13 193957]-3.wav",
+      "CachePath": "D8/{D8B4DAE9-4EDD-3DB8-FC4F-91696C8DEE76}.wem"
+     },
+     {
+      "Id": "1061960334",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind gust-008.wav",
+      "CachePath": "08/{08245F1C-3852-F6C5-68D1-4A4113DFCBD5}.wem"
+     }
+    ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "237691852",
+       "Name": "Parametric EQ (Custom)",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\River Grains\\[Effect Slot [0]: (Parametric EQ)]\\Parametric EQ (Custom)",
+       "GUID": "{46CB4CF8-9F93-4DEB-A358-841ED90F35DC}",
+       "LibName": "Wwise Parametric EQ",
+       "LibId": "6881283"
+      },
+      {
+       "Id": "564905040",
+       "Name": "Parametric EQ (Custom)",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Crickets\\[Effect Slot [0]: (Parametric EQ)]\\Parametric EQ (Custom)",
+       "GUID": "{20714ED2-C5F7-4F64-8AA4-E8EC49D341E3}",
+       "LibName": "Wwise Parametric EQ",
+       "LibId": "6881283"
+      },
+      {
+       "Id": "685180552",
+       "Name": "Soundseed Grain",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\River Grains\\Soundseed Grain",
+       "GUID": "{0C5D36F1-DBA1-49D9-899F-FDD4C90C5AE2}",
+       "LibName": "SoundSeed Grain",
+       "LibId": "11993090",
+       "MediaRefs": [
+        {
+         "Id": "744368098"
+        }
+       ]
+      },
+      {
+       "Id": "794625954",
+       "Name": "Matrix Reverb (Custom)",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Chime Grains\\[Effect Slot [0]: (Matrix Reverb)]\\Matrix Reverb (Custom)",
+       "GUID": "{8AE919BC-CE6A-4D87-BB6B-FE30D3074BC8}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      },
+      {
+       "Id": "830302621",
+       "Name": "Soundseed Grain",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\BushGrains\\Soundseed Grain",
+       "GUID": "{D12FF838-318A-43C6-8681-F91AB68457A9}",
+       "LibName": "SoundSeed Grain",
+       "LibId": "11993090",
+       "MediaRefs": [
+        {
+         "Id": "979054858"
+        }
+       ]
+      },
+      {
+       "Id": "1042472118",
+       "Name": "Parametric EQ (Custom)",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Wind Gusts\\[Effect Slot [0]: (Parametric EQ)]\\Parametric EQ (Custom)",
+       "GUID": "{4F69C209-AF7C-4F93-9BEE-66561E85BCE8}",
+       "LibName": "Wwise Parametric EQ",
+       "LibId": "6881283"
+      },
+      {
+       "Id": "1067836650",
+       "Name": "Parametric EQ (Custom)",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Wind Gusts\\[Effect Slot [1]: (Parametric EQ)]\\Parametric EQ (Custom)",
+       "GUID": "{84CF5C1F-30D2-48FC-8F16-B287E976CA12}",
+       "LibName": "Wwise Parametric EQ",
+       "LibId": "6881283"
+      },
+      {
+       "Id": "1069020998",
+       "Name": "Parametric EQ (Custom)",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Water Fall\\[Effect Slot [0]: (Parametric EQ)]\\Parametric EQ (Custom)",
+       "GUID": "{EE41A954-E9CC-4444-9616-B606A3355673}",
+       "LibName": "Wwise Parametric EQ",
+       "LibId": "6881283"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "1427625975",
+      "Name": "Bush",
+      "ObjectPath": "\\Events\\Default Work Unit\\Bush",
+      "GUID": "{5B5ADC99-F43E-4A6F-8599-BE5856CBD4C4}",
+      "MaxAttenuation": "5",
+      "DurationType": "Unknown",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "830302621"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "2590078866",
+      "Name": "Chimes",
+      "ObjectPath": "\\Events\\Default Work Unit\\Chimes",
+      "GUID": "{57EE3589-2FF8-4775-91C5-9853434BD97E}",
+      "MaxAttenuation": "15",
+      "DurationType": "OneShot",
+      "DurationMin": "1.7164826",
+      "DurationMax": "2.4539347",
+      "MediaRefs": [
+       {
+        "Id": "374857610"
+       },
+       {
+        "Id": "401502167"
+       },
+       {
+        "Id": "404204794"
+       },
+       {
+        "Id": "789882364"
+       },
+       {
+        "Id": "800591891"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "794625954"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "1443984213",
+      "Name": "Crickets",
+      "ObjectPath": "\\Events\\Default Work Unit\\Crickets",
+      "GUID": "{1BF08153-68F5-49E5-821B-A964B37B761D}",
+      "MaxAttenuation": "8.75",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "110283694"
+       },
+       {
+        "Id": "726529789"
+       },
+       {
+        "Id": "843621866"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "564905040"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "1007505908",
+      "Name": "River_Flow",
+      "ObjectPath": "\\Events\\Default Work Unit\\River_Flow",
+      "GUID": "{9BA30C53-DB97-4585-9C63-27A1E6AF5F01}",
+      "MaxAttenuation": "6",
+      "DurationType": "Unknown",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "237691852"
+        },
+        {
+         "Id": "685180552"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "2654748154",
+      "Name": "Water",
+      "ObjectPath": "\\Events\\Default Work Unit\\Water",
+      "GUID": "{C2C4C2C5-6821-465C-B243-2DC42ED7E709}",
+      "MaxAttenuation": "15",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "604692266"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "1069020998"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "1537061107",
+      "Name": "Wind",
+      "ObjectPath": "\\Events\\Default Work Unit\\Wind",
+      "GUID": "{32CF463E-4BAD-4A28-8F5D-737A34D69EB6}",
+      "MaxAttenuation": "50",
+      "DurationType": "OneShot",
+      "DurationMin": "65.21272",
+      "DurationMax": "65.21272",
+      "MediaRefs": [
+       {
+        "Id": "8917109"
+       },
+       {
+        "Id": "48366985"
+       },
+       {
+        "Id": "178072745"
+       },
+       {
+        "Id": "354370240"
+       },
+       {
+        "Id": "405695144"
+       },
+       {
+        "Id": "616105081"
+       },
+       {
+        "Id": "867056537"
+       },
+       {
+        "Id": "1061960334"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "1042472118"
+        },
+        {
+         "Id": "1067836650"
+        }
+       ]
+      }
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "855296609",
+      "Name": "Wind_Intensity",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Wind_Intensity",
+      "GUID": "{DEA5039E-0318-4EE0-9AD4-E39DF61C738D}"
+     },
+     {
+      "Id": "2385747627",
+      "Name": "Door_Proximity",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Door_Proximity",
+      "GUID": "{9373F408-45F2-4B4F-A417-DFFAED9537EE}"
+     },
+     {
+      "Id": "2923642054",
+      "Name": "Freq_Distance_Attenuation",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Freq_Distance_Attenuation",
+      "GUID": "{E489A023-67FC-4489-8AD2-081964539041}"
+     },
+     {
+      "Id": "3228788358",
+      "Name": "Emitter_Volume",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Emitter_Volume",
+      "GUID": "{2E6B6735-D7D6-4AD2-A207-3EFBAED47231}"
+     },
+     {
+      "Id": "3257439120",
+      "Name": "Head_Orientation",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Head_Orientation",
+      "GUID": "{BC9BD34F-7FF1-4C61-95E2-41615C9E79A0}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{80D6BC19-0518-36C3-809E-74DD3F352C0A}"
+ }
+}

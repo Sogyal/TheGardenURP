@@ -1,0 +1,43 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "URP Sample Scenes_WwiseProject",
+   "GUID": "{5C0B12E5-2F1F-435D-ABA3-4FF4C7D10D16}",
+   "Generator": "2024.1.5.8803"
+  },
+  "CacheRoot": "../../../../URP Sample Scenes_WwiseProject/.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{7D30CE78-6082-4A8C-B3BE-B819D5B4E3F6}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../URP Sample Scenes_WwiseProject/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Web",
+    "GUID": "{8AFFD846-02BD-4CE1-8391-84D5B728D439}",
+    "BasePlatform": "Web",
+    "BasePlatformGUID": "{639AD233-23F2-4C0F-9127-79F44C15E1DA}",
+    "Path": "../../../../URP Sample Scenes_WwiseProject/GeneratedSoundBanks/Web"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{5F42426A-6032-46A3-B28F-51F74012A642}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../URP Sample Scenes_WwiseProject/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{54FB35CA-F609-4FE7-83FD-7C0C47EDD64A}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{AE05848E-7875-6746-102E-32431D367740}"
+ }
+}

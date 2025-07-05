@@ -1,0 +1,54 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1007505908	River_Flow			\Default Work Unit\River_Flow	
+	1427625975	Bush			\Default Work Unit\Bush	
+	1443984213	Crickets			\Default Work Unit\Crickets	
+	1537061107	Wind			\Default Work Unit\Wind	
+	2590078866	Chimes			\Default Work Unit\Chimes	
+	2654748154	Water			\Default Work Unit\Water	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	855296609	Wind_Intensity			\Default Work Unit\Wind_Intensity	
+	2385747627	Door_Proximity			\Default Work Unit\Door_Proximity	
+	2923642054	Freq_Distance_Attenuation			\Default Work Unit\Freq_Distance_Attenuation	
+	3228788358	Emitter_Volume			\Default Work Unit\Emitter_Volume	
+	3257439120	Head_Orientation			\Default Work Unit\Head_Orientation	
+
+Modulator LFO	ID	Name			Wwise Object Path	Notes
+	1739823	Pitch Variation			\Default Work Unit\Pitch Variation	
+
+Modulator Envelope	ID	Name			Wwise Object Path	Notes
+	114025639	Modulator Envelope (Custom)				
+
+Effect plug-ins	ID	Name	Type				Notes
+	237691852	Parametric EQ (Custom)	Wwise Parametric EQ			
+	564905040	Parametric EQ (Custom)	Wwise Parametric EQ			
+	794625954	Matrix Reverb (Custom)	Wwise Matrix Reverb			
+	1042472118	Parametric EQ (Custom)	Wwise Parametric EQ			
+	1067836650	Parametric EQ (Custom)	Wwise Parametric EQ			
+	1069020998	Parametric EQ (Custom)	Wwise Parametric EQ			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	685180552	Soundseed Grain	SoundSeed Grain		\Actor-Mixer Hierarchy\Default Work Unit\River Grains\Soundseed Grain	
+	830302621	Soundseed Grain	SoundSeed Grain		\Actor-Mixer Hierarchy\Default Work Unit\BushGrains\Soundseed Grain	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	8917109	wind gust-005	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\EE\{EE0F9884-B0E2-3297-B162-F2A3886736DF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind Gusts\wind gust-005		1735120
+	48366985	wind gust-006	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\6F\{6F2EDB7F-E2CA-8AE2-8276-1B6B73E41AAF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind Gusts\wind gust-006		1257864
+	110283694	synth cricket 2	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\87\{874F322D-D773-9DA3-B9B7-6F4FAC17CD0D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Crickets\synth cricket 2		3076632
+	178072745	wind gust-002	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\D6\{D6FC735F-798B-999C-BD94-912F8B3C6779}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind Gusts\wind gust-002		1265688
+	354370240	wind gust-001	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\68\{68095992-99BC-F3C0-09E8-F7261D60368E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind Gusts\wind gust-001		742608
+	374857610	Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075_04	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\4C\{4C4B8200-2AA1-CC84-7B2B-41FBCD696CD0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chime Grains\Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075_04		471250
+	401502167	Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075_01	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\B3\{B33CFA01-DA14-3B06-1287-A069AAF2F829}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chime Grains\Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075_01		402944
+	404204794	Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075_02	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\1F\{1FEA5A2B-6157-A86D-F6F8-3DC0F1254525}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chime Grains\Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075_02		329660
+	405695144	wind gust-007	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\C2\{C27ECD24-3A21-F0DC-869F-5E864B17D0FF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind Gusts\wind gust-007		2116160
+	604692266	Water Fall	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\77\{772DC0F6-5720-6634-E100-1C3EED505A69}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Water Fall		14911216
+	616105081	wind gust-003	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\C4\{C4D2B51D-17C0-9E26-C8E3-606A5A81C18D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind Gusts\wind gust-003		1200556
+	726529789	synth cricket 1	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\87\{87B46DB8-0614-93CD-0EDA-1CA0755FFD11}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Crickets\synth cricket 1		3076632
+	744368098	Soundseed Grain	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\FB\{FB058C00-EA9B-7BA4-4303-5388465AC4FC}.wem	SoundSeed Grain (Custom)	\Actor-Mixer Hierarchy\Default Work Unit\River Grains\Soundseed Grain		19516428
+	789882364	Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\57\{575BF2B5-FC1F-A94D-8112-A7716F5CEE45}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chime Grains\Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075		468810
+	800591891	Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075_03	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\B8\{B807222D-C472-C1BB-C753-AC3084B22225}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chime Grains\Musical, Percussion, Torii Gate Bells, Welcoming, Chimes 02 SND118075_03		356514
+	843621866	synth cricket 3	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\B9\{B94B13E1-AC22-E875-F62A-E2C0AE62F77B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Crickets\synth cricket 3		3076632
+	867056537	wind gust-004	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\C2\{C21C0C01-AC66-F835-0A36-FFEDB845FEDF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind Gusts\wind gust-004		1574996
+	979054858	Soundseed Grain	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\D8\{D8B4DAE9-4EDD-3DB8-FC4F-91696C8DEE76}.wem	SoundSeed Grain (Custom)	\Actor-Mixer Hierarchy\Default Work Unit\BushGrains\Soundseed Grain		10395160
+	1061960334	wind gust-008	Y:\Documents\Projects\Unity projects\URP Sample Scenes\URP Sample Scenes_WwiseProject\.cache\08\{08245F1C-3852-F6C5-68D1-4A4113DFCBD5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind Gusts\wind gust-008		1611300
+
